@@ -58,9 +58,9 @@ life = {
                                           sub_category: nil
                                             }
                            
-  }
-}
-  }
-}
+                                          }
+                                        }
+                                      }
+                                      }
 
 end
