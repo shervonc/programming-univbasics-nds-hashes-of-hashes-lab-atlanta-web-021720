@@ -25,7 +25,7 @@
 # }
 
 # PORTION_4 = {
-#   label: "Species",
+#   ",label: "Species,
 #   sub_category: nil
 # }
 
@@ -49,8 +49,7 @@ life = {
                               label: "Order", sub_category: {
                                   label: "Family", sub_category: {
                                       label: "Genus", sub_category: {
-                                      
-                                          sub_category: nil }
+                                      label: "Species", sub_category: nil }
                                             }
                            
                                           }
