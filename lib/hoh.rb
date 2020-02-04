@@ -44,11 +44,10 @@ def naming_system
 life = { 
   label: "Kingdom",   
   sub_category: {  
-    label: "Phylum",sub_category: { label: "Class"    }
-                            },{
-                        label: "Order"
- }
-   
+    label: "Phylum",sub_category: { label: "Class"    },
+ 
+ 
+  }
 }
 
 end
